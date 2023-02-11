@@ -1,0 +1,1 @@
+The command "uname" without any options will print the name of the operating system, which is typically the name of the Linux distribution. In the case of an Ubuntu virtual machine, the output will be "Linux".
